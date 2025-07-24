@@ -1,8 +1,13 @@
 # Functions to Modules Conversion Project
 
+> **Note:** This small task was required by our instructor at ITI (Information Technology Institute).  
+> I'm currently enrolled in the ICC (4 months) Data Engineering program, and this assignment is from the Python Subject.
+
 This project demonstrates the conversion of Python functions into organized modules. It contains two main parts:
 1. Original functions in separate files
 2. Modularized version with proper package structure
+
+...
 
 ## Project Structure
 
